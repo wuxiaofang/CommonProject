@@ -1,2 +1,8 @@
 
 *.xcuserstate
+project.xcworkspace
+xcuserdata
+iWeidao.xccheckout
+*.swp
+.DS_Store
+Build
