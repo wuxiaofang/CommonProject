@@ -42,7 +42,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   CommonModule:
-    :commit: fbfec7175c387e71cbb9dce07731b0132a9fb55f
+    :commit: c56e595a171bc7ed01d2fa2f73be371703b88198
     :git: git@github.com:wuxiaofang/CommonModule.git
 
 SPEC CHECKSUMS:
